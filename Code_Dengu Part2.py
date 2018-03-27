@@ -2,7 +2,7 @@
 """
 Created on Tue Nov 14 11:57:02 2017
 
-@author: prabakap, Vicky
+@author: Vicky
 """
 
 #Importing necessary Libraies
